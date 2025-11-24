@@ -12,7 +12,7 @@ Esse é  meu portfólio no GitHub! Aqui você encontrará alguns dos meus projet
 * **Controle de Versão:** Git, GitHub
 * **Bancos de Dados:** SQL (básico)
 * **Sistemas Operacionais:** Windows
-* **Ferramentas:** VS Code, Docker (básico)
+* **Ferramentas:** VS Code, GDB, CodePen
 * **Outros:** Lógica de Programação, Estrutura de Dados, Orientação a Objetos
 
 ---
