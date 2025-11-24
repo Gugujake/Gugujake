@@ -25,7 +25,7 @@ UM dos projetos que tenho trabalhado. Clique nele para ver mais detalhes e o có
 
 * **Descrição:** Um pequeno Site web desenvolvido para ajudar na organização de tarefas diárias na academia, permitindo adicionar, remover e marcar aulas e também seu percentual de gordura.
 * **Tecnologias:**  HTML, CSS.
-* **Link do Repositório:** 'https://github.com/Gugujake/atividade-html'
+* **Link do Repositório:** '[https://github.com/Gugujake/atividade-html](https://github.com/Gugujake/Projeto-Academia-Capital-Fitness)'
    
 ---
 
