@@ -23,7 +23,7 @@ UM dos projetos que tenho trabalhado. Clique nele para ver mais detalhes e o có
 
 #### 1. Site academia Capital Fitness
 
-* **Descrição:** Um pequeno Site web desenvolvido para ajudar na organização de tarefas diárias na academia, permitindo adicionar, remover e marcar aulas e também seu percentual de gordura.
+* **Descrição:** Um pequeno Site web desenvolvido para ajudar na organização de tarefas diárias na academia, permitindo adicionar, remover e marcar aulas e também seu percentual de gordura.COM PLANOS PARA CADA TIPO DE CORPO E OBJETIVO.
 * **Tecnologias:**  HTML, CSS.
 * **Link do Repositório:** '[Academia Capital Fitness](https://github.com/Gugujake/Projeto-Academia-Capital-Fitness)'
    
