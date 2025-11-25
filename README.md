@@ -2,7 +2,7 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas
 
-Esse é  meu portfólio no GitHub! Aqui você encontrará alguns dos meus projetos e uma amostra do meu trabalho em desenvolvimento. Sou um estudante de tecnologia, com foco em desenvolvimento web. Estou sempre buscando aprender e aplicar novos conhecimentos para resolver problemas e construir soluções inovadoras.
+Esse é  meu portfólio no GitHub! Aqui você encontrará alguns dos meus projetos e uma amostra do meu trabalho em desenvolvimento. Sou um estudante de tecnologia, com foco em desenvolvimento web. Tenho um sonho muito grande de poder trabalhar nesta área algum dia na minha vida.
 
 ---
 
